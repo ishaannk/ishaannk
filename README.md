@@ -27,6 +27,7 @@ I am a passionate and driven **AI and software development enthusiast** with exp
 
 🔹 **[Book Recommender System](https://book-recommender-system-rzix.onrender.com/)**  
 📌 Developed a **personalized book recommendation system** using **Machine Learning**. Users can search for a book and get recommendations based on **author similarity, genre matching, and content-based filtering**.  
+🚀 Live Demo: https://book-recommender-system-rzix.onrender.com/
 
 🔹 **[Inshorts Clone (News App)](https://github.com/ishaannk/inshort-clone-using-Python-Small-News-Application-)**  
 📌 Built a real-time news aggregator using **Python & Tkinter**, integrated **NewsAPI** for live news updates.  
