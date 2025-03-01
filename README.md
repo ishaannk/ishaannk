@@ -23,12 +23,17 @@ I am a passionate and driven **AI and software development enthusiast** with exp
 
 ---
 
-### 📌 Projects
+### 📌 Projects  
+
+🔹 **[Book Recommender System](https://book-recommender-system-rzix.onrender.com/)**  
+📌 Developed a **personalized book recommendation system** using **Machine Learning**. Users can search for a book and get recommendations based on **author similarity, genre matching, and content-based filtering**.  
+
 🔹 **[Inshorts Clone (News App)](https://github.com/ishaannk/inshort-clone-using-Python-Small-News-Application-)**  
 📌 Built a real-time news aggregator using **Python & Tkinter**, integrated **NewsAPI** for live news updates.  
 
 🔹 **[Agentic AI - Financial Agent](https://github.com/ishaannk/AI-Powered-Web-Search-Finance-Assistant)**  
 📌 Developed an **AI-based financial agent** using **Phidata**, designed for **intelligent financial analysis**.  
+
 
 
 ---
