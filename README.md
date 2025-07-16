@@ -1,11 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Ishank</h1>
-<h3 align="center">AI & Software Development Enthusiast | Web Developer | ML Practitioner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaannk&label=Profile%20Views&color=0e75b6&style=flat" alt="ishaannk" />
-</p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="margin-bottom:-5px;" alt="waving hand" />
   Hi, I'm Ishank
