@@ -15,7 +15,6 @@
 
 ---
 
-### 🚀 About Me
 I am a passionate and driven **AI and software development enthusiast** with experience in **web design, AI development, machine learning, and application building**. My projects range from a **news aggregator** to an **AI-powered financial agent**, demonstrating my expertise in **Python, web development, and machine learning**. I am always eager to contribute to innovative projects and explore new technologies.
 
 ---
