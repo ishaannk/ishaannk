@@ -1,13 +1,11 @@
-
-
-
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="margin-bottom:-5px;" alt="waving hand" />
   Hi, I'm Ishank
 </h1>
 
-<h3 align="center">AI & Software Development Enthusiast | Web Developer | ML Practitioner</h3>
+<h3 align="center">
+  AI & Machine Learning Engineer | Software Developer | Cloud & Deployment Enthusiast
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishaannk&label=Profile%20Views&color=0e75b6&style=flat" alt="ishaannk" />
@@ -15,55 +13,61 @@
 
 ---
 
-I am a passionate and driven **AI and software development enthusiast** with experience in **web design, AI development, machine learning, and application building**. My projects range from a **news aggregator** to an **AI-powered financial agent**, demonstrating my expertise in **Python, web development, and machine learning**. I am always eager to contribute to innovative projects and explore new technologies.
+## 👋 About Me
+
+I am a passionate **AI & Machine Learning Engineer** with hands-on experience in building **end-to-end ML systems**, from **data pipelines and model training** to **production-grade deployment on cloud platforms**.
+
+I focus on **real-world problem solving**, combining **Machine Learning, Computer Vision, Backend Development, Docker, and Cloud (AWS)** to build scalable and practical applications.
 
 ---
 
-### 🛠️ Technical Skills
-- **Languages**: Python, HTML/CSS, JavaScript  
-- **Frameworks**: Oracle APEX, Tkinter, Streamlit  
-- **APIs**: NewsAPI, OpenAI, Phidata, TMDb API  
-- **Tools**: VS Code, FastAPI  
-- **Expertise**: AI Development, Machine Learning, Web Development, API Integration, GUI Design  
+## 🛠️ Technical Skills
+
+- **Languages**: Python, SQL, HTML/CSS  
+- **Machine Learning**: Scikit-learn, Pandas, NumPy, Model Evaluation, Feature Engineering  
+- **Computer Vision**: Object Detection, OpenCV, Real-time Inference  
+- **Backend & APIs**: Flask, FastAPI  
+- **DevOps & Cloud**: Docker, AWS Elastic Beanstalk  
+- **Tools**: Git, GitHub, VS Code  
 
 ---
 
-### 📌 Projects  
+## 🚀 Featured Projects
 
-🔹 **[Book Recommender System](https://book-recommender-system-rzix.onrender.com/)**  
-📌 Developed a **personalized book recommendation system** using **Machine Learning**. Users can search for a book and get recommendations based on **author similarity, genre matching, and content-based filtering**.  
-🚀 Live Demo: https://book-recommender-system-rzix.onrender.com/
+### 🔹 Student Performance Prediction System (End-to-End ML + AWS)
 
-🔹 **[Inshorts Clone (News App)](https://github.com/ishaannk/inshort-clone-using-Python-Small-News-Application-)**  
-📌 Built a real-time news aggregator using **Python & Tkinter**, integrated **NewsAPI** for live news updates.  
+📌 Built a **production-ready ML system** to predict student academic performance and classify **academic risk levels** (Low / Medium / High) for early intervention.
 
-🔹 **[Agentic AI - Financial Agent](https://github.com/ishaannk/AI-Powered-Web-Search-Finance-Assistant)**  
-📌 Developed an **AI-based financial agent** using **Phidata**, designed for **intelligent financial analysis**.  
+**Key Highlights:**
+- End-to-end ML pipeline (data ingestion → transformation → training → inference)
+- Flask-based web application with clean UI
+- Dockerized for consistent deployment
+- Deployed on **AWS Elastic Beanstalk (Free Tier)**
+- Real-world decision-focused output (risk categorization)
 
-
+🌐 **Live Demo (AWS)**: *http://student-performance-env.eba-cvqd8nbt.us-west-2.elasticbeanstalk.com/*
 
 ---
 
-### 💬 Let's Connect!
+### 🔹 ADAS – Object Detection & Collision Avoidance System
+
+📌 Developed a **Computer Vision-based Advanced Driver Assistance System (ADAS)** capable of **real-time object detection** and **collision avoidance logic**, inspired by autonomous driving systems.
+
+**Key Highlights:**
+- Real-time object detection using computer vision techniques
+- Distance-based collision warning logic
+- Practical application in autonomous vehicles and safety systems
+- Strong focus on real-world constraints and decision making
+
+🔗 **GitHub**: https://github.com/ishaannk/ADAS-Object-Detection-and-Collision-Avoidance
+
+---
+
+## 💬 Let’s Connect
+
 📧 Email: [iamishank97@gmail.com](mailto:iamishank97@gmail.com)  
-🔗 GitHub: [ishaannk](https://github.com/ishaannk)  
+🔗 GitHub: https://github.com/ishaannk  
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
-
-
-<!--
-**ishaannk/ishaannk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ If you find my work interesting, feel free to ⭐ my repositories!
