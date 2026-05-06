@@ -45,13 +45,13 @@ Currently exploring:
 ## Skills
 
 **Languages**  
-Python, SQL  
+Python, SQL , C++
 
 **Machine Learning**  
 Scikit-learn, Pandas, NumPy, Feature Engineering, Model Evaluation  
 
 **Deep Learning**  
-PyTorch  
+PyTorch, TensorFlow
 
 **Computer Vision**  
 OpenCV, Real-time inference systems  
@@ -60,7 +60,7 @@ OpenCV, Real-time inference systems
 FastAPI, Flask, REST APIs  
 
 **Infrastructure**  
-Docker, AWS  
+Docker, AWS , Kubernetes 
 
 ## Contact
 
