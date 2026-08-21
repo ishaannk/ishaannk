@@ -1,7 +1,7 @@
 <h1 align="center">Ishank 🤗</h1>
 
 <p align="center">
-  Data Scientist | AI/ML Engineer | Builded ADAS Perception Systems
+  Data Scientist | AI/ML Engineer | Built ADAS Perception Systems
 </p>
 
 <p align="center">
