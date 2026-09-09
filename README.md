@@ -12,7 +12,7 @@
 
 ## About
 
-Data Scientist with ~1 year of experience building and deploying **AI/ML systems in production environments**.
+Data Scientist with ~2 year of experience building and deploying **AI/ML systems in production environments**.
 
 Previously worked on **ADAS perception modules for autonomous tractors**, focusing on real-time object detection and decision logic under practical constraints.
 
